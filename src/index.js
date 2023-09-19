@@ -3,7 +3,7 @@ let Days = ["sun", "mon", "tue", "wed", "thu", "fri", "sat"];
 let day = Days[now.getDay()];
 let date = now.getDate();
 let Months = [
-  "jan",
+  "jan", 
   "feb",
   "mar",
   "apr",
